@@ -6,16 +6,16 @@ Anthropic has partnered with academic experts Prof. Joseph Feller (University Co
 | # | Note | মূল বিষয় |
 |---|---|---|
 | 1 | [ai_fluency_vocab_simple.md](ai_fluency_vocab_simple.md) | সব technical term-এর সংক্ষিপ্ত vocabulary sheet |
-| 2 | [ai_fluency_4d_framework_bangla_eng.md](ai_fluency_4d_framework_bangla_eng.md) | 4Ds framework-এর পরিচিতি |
-| 3 | [generative_ai_fundamentals_bangla_eng.md](generative_ai_fundamentals_bangla_eng.md) | Generative AI কী, কীভাবে কাজ করে |
-| 4 | [llm_capabilities_limitations_bangla_eng.md](llm_capabilities_limitations_bangla_eng.md) | LLM যা পারে ও পারে না |
-| 5 | [delegation_deep_dive_bangla_eng.md](delegation_deep_dive_bangla_eng.md) | Delegation বিস্তারিত |
-| 6 | [delegation_exercise_bangla_eng.md](delegation_exercise_bangla_eng.md) | Project Planning & Delegation exercise |
-| 7 | [description_deep_dive_bangla_eng.md](description_deep_dive_bangla_eng.md) | Description বিস্তারিত + Bad Prompt Makeover |
-| 8 | [effective_prompting_techniques_bangla_eng.md](effective_prompting_techniques_bangla_eng.md) | ৬টা prompting technique |
-| 9 | [discernment_deep_dive_bangla_eng.md](discernment_deep_dive_bangla_eng.md) | Discernment বিস্তারিত + Expert Discernment exercise |
-| 10 | [project_execution_exercise_bangla_eng.md](project_execution_exercise_bangla_eng.md) | Description-Discernment loop দিয়ে project execution |
-| 11 | [diligence_deep_dive_bangla_eng.md](diligence_deep_dive_bangla_eng.md) | Diligence বিস্তারিত + Diligence Statement exercise |
+| 2 | [ai_fluency_4d_framework.md](ai_fluency_4d_framework.md) | 4Ds framework-এর পরিচিতি |
+| 3 | [generative_ai_fundamentals.md](generative_ai_fundamentals.md) | Generative AI কী, কীভাবে কাজ করে |
+| 4 | [llm_capabilities_limitations.md](llm_capabilities_limitations.md) | LLM যা পারে ও পারে না |
+| 5 | [delegation_deep_dive.md](delegation_deep_dive.md) | Delegation বিস্তারিত |
+| 6 | [delegation_exercise.md](delegation_exercise.md) | Project Planning & Delegation exercise |
+| 7 | [description_deep_dive.md](description_deep_dive.md) | Description বিস্তারিত + Bad Prompt Makeover |
+| 8 | [effective_prompting_techniques.md](effective_prompting_techniques.md) | ৬টা prompting technique |
+| 9 | [discernment_deep_dive.md](discernment_deep_dive.md) | Discernment বিস্তারিত + Expert Discernment exercise |
+| 10 | [project_execution_exercise.md](project_execution_exercise.md) | Description-Discernment loop দিয়ে project execution |
+| 11 | [diligence_deep_dive.md](diligence_deep_dive.md) | Diligence বিস্তারিত + Diligence Statement exercise |
 | 12 | **এই নোট (Conclusion)** | পুরো framework-এর সারসংক্ষেপ + শেষ exercise |
 ---
 
