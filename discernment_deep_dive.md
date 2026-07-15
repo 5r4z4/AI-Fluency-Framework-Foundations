@@ -1,4 +1,4 @@
-# Lesson 8: Discernment নিয়ে বিস্তারিত (A Closer Look at Discernment) 🇧🇩 বাংলা + English
+# Lesson 8: Discernment নিয়ে বিস্তারিত (A Closer Look at Discernment)
 
 > এই নোটটা [Effective Prompting Techniques নোট](effective_prompting_techniques_bangla_eng.md) এবং বাকি সিরিজের সাথে link করা। এখানে জানব **Discernment** — AI যা তৈরি করে, তা চিন্তা করে যাচাই করার দক্ষতা।
 
