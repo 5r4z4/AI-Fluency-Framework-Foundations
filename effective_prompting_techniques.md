@@ -25,7 +25,9 @@ Course: *AI Fluency: Framework & Foundations*
 **সহজ কথায়:** কী চাও, কেন চাও, এবং তুমি কে — এসব স্পষ্টভাবে বলো।
 
 > ❌ Vague: "Tell me about climate change."
+
 > ✅ Better: "Explain three major impacts of climate change on agriculture in tropical regions with examples from the past decade."
+
 > ✅✅ Best: "Explain three major impacts of climate change on agriculture in tropical regions with examples from the past decade. I'm preparing for a job interview at an agricultural research lab in Indonesia. I have a degree in ecology, but no specific knowledge on climate change. Write a summary of key concepts that would help me speak intelligently in the interview."
 
 💡 Context দিলে Claude-এর উত্তর তোমার নির্দিষ্ট পরিস্থিতি ও জ্ঞানস্তরের (knowledge level) সাথে মানানসই হয়।
