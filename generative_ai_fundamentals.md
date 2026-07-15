@@ -1,5 +1,4 @@
-# Deep Dive 1: Generative AI কী? (What is Generative AI?) 🇧🇩 বাংলা + English
-
+# Deep Dive 1: Generative AI কী? (What is Generative AI?) 
 > এই নোটটা [4D Framework নোট](ai_fluency_4d_framework_bangla_eng.md) এবং [Vocabulary Sheet](ai_fluency_vocab_simple.md) এর সাথে link করা। এখানে জানব **Generative AI আসলে কী, কীভাবে কাজ করে**, এবং কোন কোন technology এটাকে সম্ভব করেছে।
 
 Course: *AI Fluency* — by Drew Bent, Anthropic
