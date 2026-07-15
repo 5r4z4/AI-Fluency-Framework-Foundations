@@ -1,5 +1,4 @@
-# Lesson 7: Effective Prompting Techniques (Deep Dive) 🇧🇩 বাংলা + English
-
+# Lesson 7: Effective Prompting Techniques (Deep Dive) 
 > এই নোটটা [Description Deep Dive নোট](description_deep_dive_bangla_eng.md) এবং বাকি সিরিজের সাথে link করা। এখানে জানব **Description** skill-টা বাস্তবে কীভাবে প্রয়োগ (apply) করতে হয় — অর্থাৎ effective prompting-এর ৬টা মূল technique।
 
 Course: *AI Fluency: Framework & Foundations*
