@@ -1,6 +1,6 @@
 # AI-Fluency-Framework-Foundations
 Anthropic has partnered with academic experts Prof. Joseph Feller (University College Cork) and Prof. Rick Dakan (Ringling College) to launch an AI fluency course that teaches practical skills for effective, efficient, ethical, and safe AI interaction. 
-# Conclusion: AI Fluency Framework সারসংক্ষেপ 🇧🇩 বাংলা + English
+# Conclusion: AI Fluency Framework সারসংক্ষেপ 
 
 > এই নোটটা [Diligence Deep Dive নোট](diligence_deep_dive_bangla_eng.md) এবং বাকি সিরিজের **শেষ নোট**। এখানে পুরো কোর্সের মূল ধারণাগুলো একসাথে সংক্ষেপে (recap) দেখব এবং কোর্স শেষের exercise-গুলো নিয়ে জানব।
 
