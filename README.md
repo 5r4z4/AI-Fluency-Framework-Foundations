@@ -16,7 +16,6 @@ Anthropic has partnered with academic experts Prof. Joseph Feller (University Co
 | 9 | [discernment_deep_dive.md](discernment_deep_dive.md) | Discernment বিস্তারিত + Expert Discernment exercise |
 | 10 | [project_execution_exercise.md](project_execution_exercise.md) | Description-Discernment loop দিয়ে project execution |
 | 11 | [diligence_deep_dive.md](diligence_deep_dive.md) | Diligence বিস্তারিত + Diligence Statement exercise |
-| 12 | **এই নোট (Conclusion)** | পুরো framework-এর সারসংক্ষেপ + শেষ exercise |
 ---
 
 ## 🧠 The 4Ds — এক নজরে সম্পূর্ণ সারসংক্ষেপ
