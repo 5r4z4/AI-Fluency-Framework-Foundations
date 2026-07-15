@@ -1,4 +1,4 @@
-# AI Fluency: The 4D Framework 🇧🇩 বাংলা + English
+# AI Fluency: The 4D Framework
 
 > এই নোটটা তৈরি হয়েছে **[AI Fluency ভোকাবুলারি শীট]** এর সাথে link করে। যে কেউ AI ব্যবহার করতে চায় **effectively (কার্যকরভাবে), efficiently (দক্ষভাবে), ethically (নৈতিকভাবে), এবং safely (নিরাপদে)** — তাদের জন্য এই ৪টা skill খুবই গুরুত্বপূর্ণ।
 
