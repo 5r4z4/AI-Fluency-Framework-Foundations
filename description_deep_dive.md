@@ -1,4 +1,4 @@
-# Lesson 6: Description নিয়ে বিস্তারিত (A Closer Look at Description) 🇧🇩 বাংলা + English
+# Lesson 6: Description নিয়ে বিস্তারিত (A Closer Look at Description)
 
 > এই নোটটা [Delegation Exercise নোট](delegation_exercise_bangla_eng.md), [Delegation Deep Dive নোট](delegation_deep_dive_bangla_eng.md) এবং বাকি সিরিজের সাথে link করা। এখানে **Description** (স্পষ্টভাবে communicate করা) নিয়ে গভীরভাবে জানব।
 
