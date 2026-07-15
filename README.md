@@ -1,11 +1,22 @@
 # AI-Fluency-Framework-Foundations
 Anthropic has partnered with academic experts Prof. Joseph Feller (University College Cork) and Prof. Rick Dakan (Ringling College) to launch an AI fluency course that teaches practical skills for effective, efficient, ethical, and safe AI interaction. 
-# Conclusion: AI Fluency Framework সারসংক্ষেপ 
 
-> এই নোটটা [Diligence Deep Dive নোট](diligence_deep_dive_bangla_eng.md) এবং বাকি সিরিজের **শেষ নোট**। এখানে পুরো কোর্সের মূল ধারণাগুলো একসাথে সংক্ষেপে (recap) দেখব এবং কোর্স শেষের exercise-গুলো নিয়ে জানব।
+## 📚 পুরো Course Series
 
-Course: *AI Fluency: Framework & Foundations* — ⏱️ ৬ মিনিট (video)
-
+| # | Note | মূল বিষয় |
+|---|---|---|
+| 1 | [ai_fluency_vocab_simple.md](ai_fluency_vocab_simple.md) | সব technical term-এর সংক্ষিপ্ত vocabulary sheet |
+| 2 | [ai_fluency_4d_framework_bangla_eng.md](ai_fluency_4d_framework_bangla_eng.md) | 4Ds framework-এর পরিচিতি |
+| 3 | [generative_ai_fundamentals_bangla_eng.md](generative_ai_fundamentals_bangla_eng.md) | Generative AI কী, কীভাবে কাজ করে |
+| 4 | [llm_capabilities_limitations_bangla_eng.md](llm_capabilities_limitations_bangla_eng.md) | LLM যা পারে ও পারে না |
+| 5 | [delegation_deep_dive_bangla_eng.md](delegation_deep_dive_bangla_eng.md) | Delegation বিস্তারিত |
+| 6 | [delegation_exercise_bangla_eng.md](delegation_exercise_bangla_eng.md) | Project Planning & Delegation exercise |
+| 7 | [description_deep_dive_bangla_eng.md](description_deep_dive_bangla_eng.md) | Description বিস্তারিত + Bad Prompt Makeover |
+| 8 | [effective_prompting_techniques_bangla_eng.md](effective_prompting_techniques_bangla_eng.md) | ৬টা prompting technique |
+| 9 | [discernment_deep_dive_bangla_eng.md](discernment_deep_dive_bangla_eng.md) | Discernment বিস্তারিত + Expert Discernment exercise |
+| 10 | [project_execution_exercise_bangla_eng.md](project_execution_exercise_bangla_eng.md) | Description-Discernment loop দিয়ে project execution |
+| 11 | [diligence_deep_dive_bangla_eng.md](diligence_deep_dive_bangla_eng.md) | Diligence বিস্তারিত + Diligence Statement exercise |
+| 12 | **এই নোট (Conclusion)** | পুরো framework-এর সারসংক্ষেপ + শেষ exercise |
 ---
 
 ## 🧠 The 4Ds — এক নজরে সম্পূর্ণ সারসংক্ষেপ
@@ -79,29 +90,4 @@ Claude-এর সাহায্যে, personal ও professional context-এ �
 
 উপরের ২টা exercise-ই এই lesson-এর reflection component হিসেবে কাজ করে। এগুলোর মাধ্যমে তুমি তোমার শেখাকে consolidate করতে পারবে এবং নিজের চলমান (ongoing) উন্নতির সাথে যুক্ত করতে পারবে।
 
----
-
-## 📚 পুরো Course Series — সব নোট এক জায়গায়
-
-| # | Note | মূল বিষয় |
-|---|---|---|
-| 1 | [ai_fluency_vocab_simple.md](ai_fluency_vocab_simple.md) | সব technical term-এর সংক্ষিপ্ত vocabulary sheet |
-| 2 | [ai_fluency_4d_framework_bangla_eng.md](ai_fluency_4d_framework_bangla_eng.md) | 4Ds framework-এর পরিচিতি |
-| 3 | [generative_ai_fundamentals_bangla_eng.md](generative_ai_fundamentals_bangla_eng.md) | Generative AI কী, কীভাবে কাজ করে |
-| 4 | [llm_capabilities_limitations_bangla_eng.md](llm_capabilities_limitations_bangla_eng.md) | LLM যা পারে ও পারে না |
-| 5 | [delegation_deep_dive_bangla_eng.md](delegation_deep_dive_bangla_eng.md) | Delegation বিস্তারিত |
-| 6 | [delegation_exercise_bangla_eng.md](delegation_exercise_bangla_eng.md) | Project Planning & Delegation exercise |
-| 7 | [description_deep_dive_bangla_eng.md](description_deep_dive_bangla_eng.md) | Description বিস্তারিত + Bad Prompt Makeover |
-| 8 | [effective_prompting_techniques_bangla_eng.md](effective_prompting_techniques_bangla_eng.md) | ৬টা prompting technique |
-| 9 | [discernment_deep_dive_bangla_eng.md](discernment_deep_dive_bangla_eng.md) | Discernment বিস্তারিত + Expert Discernment exercise |
-| 10 | [project_execution_exercise_bangla_eng.md](project_execution_exercise_bangla_eng.md) | Description-Discernment loop দিয়ে project execution |
-| 11 | [diligence_deep_dive_bangla_eng.md](diligence_deep_dive_bangla_eng.md) | Diligence বিস্তারিত + Diligence Statement exercise |
-| 12 | **এই নোট (Conclusion)** | পুরো framework-এর সারসংক্ষেপ + শেষ exercise |
-
-🎉 অভিনন্দন! পুরো AI Fluency Framework কোর্সের নোট সম্পূর্ণ হলো — Delegation → Description → Discernment → Diligence।
-
-### 🎯 Final Self-Test
-নিজেকে জিজ্ঞাসা করো:
-- 4Ds-এর প্রতিটার একটা এক-লাইনের সংজ্ঞা নিজের ভাষায় বলার চেষ্টা করো
-- কোন competency-টা তোমার কাছে সবচেয়ে সহজ মনে হয়েছে, আর কোনটা সবচেয়ে challenging?
-- "AI জাদু না" — এই কথাটার মানে কী তোমার নিজের ভাষায়?
+--- 
