@@ -1,5 +1,4 @@
-# Exercise: Project Execution with Description-Discernment Loops 🇧🇩 বাংলা + English
-
+# Exercise: Project Execution with Description-Discernment Loops 
 > এই নোটটা [Discernment Deep Dive নোট](discernment_deep_dive_bangla_eng.md), [Delegation Exercise নোট](delegation_exercise_bangla_eng.md) এবং বাকি সিরিজের সাথে link করা। এখানে তুমি Lesson 5-এ পরিকল্পনা করা project-টা **Description ও Discernment** skill ব্যবহার করে বাস্তবে execute করবে।
 
 Course: *AI Fluency: Framework & Foundations*
