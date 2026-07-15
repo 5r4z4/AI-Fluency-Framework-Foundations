@@ -1,4 +1,4 @@
-# Lesson 4: Delegation নিয়ে বিস্তারিত (A Closer Look at Delegation) 🇧🇩 বাংলা + English
+# Lesson 4: Delegation নিয়ে বিস্তারিত (A Closer Look at Delegation)
 
 > এই নোটটা [LLM Capabilities & Limitations নোট](llm_capabilities_limitations_bangla_eng.md), [Generative AI Fundamentals নোট](generative_ai_fundamentals_bangla_eng.md), [4D Framework নোট](ai_fluency_4d_framework_bangla_eng.md) এবং [Vocabulary Sheet](ai_fluency_vocab_simple.md) এর সাথে link করা। এখানে **Delegation** (দায়িত্ব ভাগাভাগি) নিয়ে গভীরভাবে জানব।
 
