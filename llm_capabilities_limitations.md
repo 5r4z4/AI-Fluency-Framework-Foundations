@@ -1,4 +1,4 @@
-# Lesson 3B: Capabilities ও Limitations কী? 🇧🇩 বাংলা + English
+# Lesson 3B: Capabilities ও Limitations কী? 
 
 > এই নোটটা [Generative AI Fundamentals নোট](generative_ai_fundamentals_bangla_eng.md), [4D Framework নোট](ai_fluency_4d_framework_bangla_eng.md) এবং [Vocabulary Sheet](ai_fluency_vocab_simple.md) এর সাথে link করা। এখানে জানব Claude-এর মতো LLM **কী পারে (capabilities)** আর **কী পারে না (limitations)** — যেন AI-কে নতুন একজন সহকর্মী (colleague) হিসেবে ভাবা যায়, যার strength ও weakness বুঝে কাজ করতে হয়।
 
