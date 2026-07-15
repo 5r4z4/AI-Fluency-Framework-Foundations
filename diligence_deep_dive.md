@@ -1,4 +1,4 @@
-# Video: Diligence নিয়ে বিস্তারিত (A Closer Look at Diligence) 🇧🇩 বাংলা + English
+# Video: Diligence নিয়ে বিস্তারিত (A Closer Look at Diligence)
 
 > এই নোটটা [Project Execution Exercise নোট](project_execution_exercise_bangla_eng.md) এবং বাকি সিরিজের সাথে link করা। এখানে জানব 4Ds-এর শেষ competency **Diligence** — AI-এর সাথে দায়িত্বশীল (responsible) ও নৈতিক (ethical) collaboration।
 
