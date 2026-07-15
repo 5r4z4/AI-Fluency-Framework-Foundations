@@ -1,4 +1,4 @@
-# Exercise: Project Planning & Delegation (প্রজেক্ট প্ল্যানিং ও ডেলিগেশন) 🇧🇩 বাংলা + English
+# Exercise: Project Planning & Delegation (প্রজেক্ট প্ল্যানিং ও ডেলিগেশন) 
 
 > এই নোটটা [Delegation Deep Dive নোট](delegation_deep_dive_bangla_eng.md) এবং বাকি সিরিজের সাথে link করা। এটা একটা **hands-on exercise** — এখানে তুমি নিজে একটা project বাছাই করে Delegation skill practice করবে, যা কোর্সের বাকি অংশে (Description, Discernment, Diligence) কাজে লাগবে।
 
